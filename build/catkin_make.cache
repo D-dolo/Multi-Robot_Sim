@@ -1,0 +1,2 @@
+mrsim
+-DCATKIN_DEVEL_PREFIX=/home/giancarlo/Multi-Robot Simulator RobotProgramming/devel -DCMAKE_INSTALL_PREFIX=/home/giancarlo/Multi-Robot Simulator RobotProgramming/install -G Unix Makefiles

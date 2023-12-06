@@ -1,0 +1,8 @@
+prefix=/home/giancarlo/Multi-Robot Simulator RobotProgramming/install
+
+Name: mrsim
+Description: Description of mrsim
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lmrsim
+Requires: geometry_msgs roscpp sensor_msgs std_msgs
